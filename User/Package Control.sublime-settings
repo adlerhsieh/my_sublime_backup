@@ -9,16 +9,15 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Color Highlighter",
 		"EJS",
 		"ERB Snippets",
-		"Find Function Definition",
 		"Floobits",
-		"MacTerminal",
+		"GitGutter",
 		"Package Control",
 		"PlainTasks",
 		"Sass",
-		"Terminal",
-		"WakaTime"
+		"Terminal"
 	]
 }
